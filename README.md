@@ -4,7 +4,7 @@ My first Java project developed while learning Java.
 
 ## About
 
-This application reads 4 student grades, calculates the final average and displays the student's academic status.
+This application reads 4 grades from a student, calculates the final average and displays the student's academic status.
 
 ## Features
 
